@@ -1,0 +1,74 @@
+# Environments
+pyenv/
+.venv/
+venv/
+env/
+ENV/
+__pycache__/
+.python-version
+*.pyc
+.coverage
+.env
+
+# Environment Variable Files
+*.env
+.secrets.*
+
+# MacOS
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+*.py[cod]
+*$py.class
+
+# Packaging
+.Python
+build/
+downloads/
+lib/
+lib64/
+var/
+wheels/
+*.manifest
+*.spec
+
+# Installing Logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test and Coverage
+htmlcov/
+.tox/
+.coverage.*
+.cache
+coverage.xml
+*.coverage
+.pytest_cache/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# IDEs
+.idea/
+
+# Databases
+*.sqlite3
+
+# Distribution
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+
+# Personal IDE settings
+.settings/
+
+# VSCode
+.vscode/
+
